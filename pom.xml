@@ -8,8 +8,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>Api-Gateway</module>
-        <module>Config-server</module>
-        <module>Service-Registry</module>
+        <module>api-gateway</module>
+        <module>config-server</module>
+        <module>service-registry</module>
     </modules>
 </project>
