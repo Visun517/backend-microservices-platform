@@ -9,7 +9,7 @@ module.exports = {
         {
             name: "service-registry",
             script: "java",
-            args: ["-jar", "./service-registry/target/Service-Registry-1.0.0.jar"],
+            args: ["-jar", "./service-registry/target/service-registry-1.0.0.jar"],
             log_file: "./service-registry/logs/service-registry.log"
         },
         {
